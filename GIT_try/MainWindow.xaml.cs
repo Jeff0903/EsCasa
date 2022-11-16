@@ -23,6 +23,11 @@ namespace GIT_try
         public MainWindow()
         {
             InitializeComponent();
+
+            int fat1 = 1;
+            int fat2 = 2;
+
+            int molt = fat1 * fat2;
         }
     }
 }
